@@ -1,14 +1,14 @@
 # VE-CO---Better-Body-Damage-Distribution
 Vanilla Enhanced - Combat Overhaul
 
-Better Body Damage Distribution
+**Better Body Damage Distribution**
 
-Hit chance(coverage) of the torso has been increased.
+- Hit chance(coverage) of the torso has been increased.
 
-Attacks that hit torso are more likely puncture organ.
+- Attacks that hit torso are more likely puncture organ.
 
-Legs and arms are less likely hit and shoulders are more likely hit.
+- Legs and arms are less likely hit and shoulders are more likely hit.
 
-Shoulders are now considered torso by armor and protected by bullet vest.
+- Shoulders are now considered torso by armor and protected by bullet vest.
 
-Coverage of eyes, hands, feet, fingers and toes has been significantly decreased.
+- Coverage of eyes, hands, feet, fingers and toes has been significantly decreased.
