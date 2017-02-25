@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>VA-CO Better Body Damage Distribution</name>
+
+    <author>Aristocat</author>
+
+    <url>https://github.com/AristocatHAHA/Rimworld-VA-CO</url>
+
+    <targetVersion>0.16.1393</targetVersion>
+
+    <description>
+
+- Hit chance(coverage) of the torso has been increased.
+
+- Attacks that hit torso are more likely puncture organ.
+
+- Legs and arms are less likely hit and shoulders are more likely hit.
+
+- Shoulders are now considered torso by armor and protected by bullet vest.
+
+- Coverage of eyes, hands, feet, fingers and toes has been significantly decreased.
+
+</description>
+
+</ModMetaData>
